@@ -1,6 +1,6 @@
 ---
 title: GitHub Developer Program
-intro: 'If you build tools that integrate with {% data variables.product.github %}, you can join the {% data variables.product.github %} Developer Program.'
+intro: 'If you build tools that integrate with GitHub, you can join the GitHub Developer Program.'
 redirect_from:
   - /program
   - /developers/overview/github-developer-program
