@@ -26,14 +26,14 @@ Build your own tools that seamlessly integrate with the place you push code ever
 
 Email <a href="mailto:partnerships@github.com">partnerships@github.com</a> to request developer licenses to build and test your application against {% data variables.product.prodname_ghe_server %}.
 
-## Have an integration that works with {% data variables.product.github %}?
+## Have an integration that works with GitHub?
 
 Awesome! Here’s how you can spread the word:
 
 * Use the [Octocat or GitHub logo](https://github.com/logos) to identify that your product works with {% data variables.product.github %}.
 * Post a video or a blog on your website about your integration.
 
-## Ready to join the {% data variables.product.github %} Developer Program?
+## Ready to join the GitHub Developer Program?
 
 Membership is open to individual developers and companies who have:
 
